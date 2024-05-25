@@ -8,16 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Ege;Medium-Stack %20Back-End %20Web and %20App %20Developer.;I%20live%20in %20Istanbul.;I'm%20high%20school%20student%20and%20self-improvement %20person.&font=Fira%20Code&center=true&width=680&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p align="center">
-  <a href="https://egee.me"><img width="32px" alt="egee.me" title="My Web Site" src="https://i.hizliresim.com/puarq0y.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/egee0official"><img width="32px" alt="Instagram" title="Instagram" src="https://i.hizliresim.com/jyx8dyh.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/egee0official"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/950425765151907921" alt="Discord" title="My Discord Profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 <br/>
 
